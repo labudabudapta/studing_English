@@ -1,6 +1,41 @@
 TEST 5
 READING
 
+paper 1
+1. A +
+2. B +
+3. D +
+4. C -> D
+5. B +
+6. B +
+7. D -> C
+8. A -> D
+
+paper 2
+9. B -> E
+10. H +
+11. F +
+12. A +
+13. E -> C
+14. G +
+15. D +
+
+paper 3
+16. A +
+17. B +
+18. A +
+19,20. B,A +,+
+21. E +
+22. C -> B
+23,24. D,B +, -> E
+25,26. D,E -> B, +
+27,28. B,E -> A, +
+29,30. B,C -> E, +
+
+correct - 20
+mistakes - 10
+result - 67%
+
 vocabulary:
 
 lime (tree)
@@ -32,3 +67,72 @@ everyone whoТs anyone - местна€ элита, все
 approach - подход (метод, способ)
 specie -  (биол.) вид
 self-taught - самоучка
+sought out - востребованный
+venue - место проведени€ (меропри€ти€, встречи)
+all about - самое важное,  всецело посв€щЄн чему-л., кому-л
+timetable - расписание; график
+fitness - соответствие; пригодность
+lead by example - подавать пример
+candlelight ceremony - candlelight
+
+part 3 (USE OF ENGLISH)
+
+paper 1
+1. A +
+2. D +
+3. B +
+4. C +
+5. D -> B
+6. C +
+7. A +
+8. C +
+9. D +
+10. D -> B
+11. C -> B
+12. B -> C
+
+paper 2
+13. WHICH +
+14. SO +
+15. THAT -> THE
+16. WILL -> WOULD/MIGHT
+17. ITS -> SOMETHING
+18. FROM -> FOR
+19. WITH +
+20. IF -> WITHOUT
+21. UP +
+22. TO +
+23. WAS -> HAD
+24. AND -> AS
+
+paper 3
+25. VARIETY +
+26. DIRECTION -> DIRECTOR
+27. INHABITANTS +
+28. CHOISE -> CHOICE
+29. GROWTH +
+30. EMPLIYMENT -> UNEMPLOYMENT
+31. AGREEMENT +
+32. LOOSING -> LOSS
+33. DISABLE -> UNABLE
+34. DECISION +
+
+paper 4
+35. UNTIL WE FINISHED -> UNTIL WE HAD FINISHED
+36. HAD BEEN BETTER THAN TIM -> WAS BETTER THAN TIM
+37. IF SHE DOES NOT -> IF SHE DOES NOT DO or UNLESS SHE DOES
+38. WHAT TIME -> IF HE REALISED WHAT TIME
+39. PUT THE ADVERTISEMENT OF -> PUT AN ADVERTISEMENT FOR
+40. FINISHED HIS SPEACH HAVING THANKED -> FINISHED HIS SPEACH BEFORE THANKING
+41. WAS A MONTH AGO WHEN -> HAS BEEN A MONTH SINCE
+42. WHICH FOLLOWING AFTER THEIR APPEARING -> FOLLOWING THEIR APPEARANCE
+
+correct - 18
+mistakes - 24
+result - 43%
+
+vocabulary:
+
+
+
+
