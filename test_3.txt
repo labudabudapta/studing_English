@@ -1,0 +1,179 @@
+paper 1
+part 1
+1. B +
+2. A -> C
+3. A +
+4. C +
+5. B +
+6. A +
+7. D +
+8. C +
+
+part 2
+9. A -> E
+10. G +
+11. B +
+12. H +
+13. F -> C
+14. E -> F
+15. D +
+
+part 3
+16. B +
+17. [A A or E
+18. D] A or E
+19. B +
+20. C +
+21. E +
+22. [C C or D
+23. D] C or D
+24. A +
+25. C +
+26. D +
+27. A -> B
+28. [D A or E
+29. E] A or E
+30. A -> D
+
+mistakes - 8
+correct - 22
+
+result - 73%
+
+vocabulary:
+at a price
+bedsit
+blank spot
+one-horse town
+sticks
+nun
+Flat to Let
+college
+toffee-nosed
+poke around
+pull a face
+posh accent
+saleable
+aim at
+generously - великодушно; благородно
+get hold of
+familiarise
+cater (catering)
+stand a chance
+so-called
+fluency - свободное владение
+rejection - отказ
+untamed
+subsequently -	в результате
+spectacular
+deckchair
+notorious
+fern - папоротник
+modest - сдержанный
+moorland (moor)
+
+part 3 (Use of English)
+paper 1:
+1. D +
+2. B +
+3. A -> B
+4. D +
+5. A +
+6. C +
+7. B +
+8. A +
+9. B +
+10. C +
+11. D +
+12. C +
+
+paper 2:
+13. HAVE + (NEED/OUGHT)
+14. IF +
+15. HOW +
+16. WITH -> OF
+17. WHETHER -> GATTING/MAKING/HAVING
+18. ABOUT -> MORE
+19. AT -> ON
+20. TO -> INTO
+21. IN -> TAKE
+22. LIKE +
+23. ALL -> SHURE/CERTAIN
+24. AS -> RATHER
+
+paper 3:
+25. COASTAL + 
+26. EVENMENT -> UNEVENTLY
+27. ECONOMIC +
+28. GROWTH +
+29. ARRIVERS -> ARRIVALS
+30. EMPLOYMENT +
+31. CONCENTRATION +
+32. REMARKABLE +
+33. INDUSTRIAL +
+34. EXPANDING -> EXPANSION
+
+paper 4:
+35. HAD NOT TOUCH WITH -> HAD BEEN IN TOUCH WITH
+36. A DIFFERENCE COMPARING WITH -> NO COMPARISON BETWEEN
+37. WHAT MADE SARAH TO LEAVE -> WHAT MADE SARAH/HER LEAVE
+38. TO CARE ABOUT ->  TAKING CARE OF
+39. WE CANNOT CAME THROUGH -> NONE OF US CAME UP
+40. DID NOT LET HER +
+41. WOULD HAVE TURNED IN -> WOULD HAVE TURNED UP ON
+42. HAVE BEEN PREVENTED -> WERE PREVENTED FROM GETTING
+
+mistakes - 19
+correct - 23
+
+result - 55%
+
+vocabulary:
+what is more - помимо прочего
+on the contrary
+be stuck
+rather than
+take advantage
+distribute
+evenly
+turned up
+on time
+prevent from
+
+part 4 (LISTENING)
+correct - 14
+mistakes - 16
+result - 46%
+
+vocabulary:
+chewing gum
+outline - краткий обзор, очерк
+uniquely - однозначно
+raw - сырьё
+chicle - жевательная резинка
+man-made - техногенный, искусственный
+flavored - ароматизированный
+take your time - не торопитесь
+fixture - неотъемлемая часть; арматура; приспособление
+with this in mind - принимая это во внимание, держа в голове
+contemporary - современный
+deep down - в глубине души
+trainee
+daft - глупый; идиотский
+attitude - положение; осанка; отношение
+
+fine detail - мелкая деталь
+commission - наряд; поручение
+eye for details
+good time - подходящий момент
+family suite - семейные апартаменты
+in that respect - в этом отношении
+
+
+
+
+
+
+
+
+

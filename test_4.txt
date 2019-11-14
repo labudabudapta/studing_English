@@ -1,0 +1,144 @@
+TEST 4
+part 1 (reading):
+
+paper 1
+1. B +
+2. D +
+3. B -> A
+4. C +
+5. C +
+6. D -> A
+7. D +
+8. A -> B
+
+paper 2
+9. D -> H
+10. A +
+11. H -> C
+12. F +
+13. G -> B
+14. B -> D
+15. C -> G
+
+paper 3:
+16. B +
+17. C -> A
+18. C +
+19. F -> D
+20. E +
+21. A +
+22. E +
+23. D +
+24. E +
+25. D +
+26. F -> B
+27. F +
+28. C +
+29. E +
+30. A +
+
+vocabulary:
+discreetly - обдуманно, незаметно
+appalling - отвратительный, ужасающий
+strictly (speaking) - строго (говоря)
+make the change
+causing - являясь причиной; в связи с чем
+take the path
+habitat - естественная среда
+track down - выслеживать
+well-received - пользующийся спросом
+globe - земной шар
+pre-packed - расфасованный
+at a time - за один раз, одновременно
+set aside - откладывать
+overall vision
+struck up
+evoke -	вызывать (воспоминание, восхищение и т. п.)
+tranquil
+cuddle - крепко обнимать
+meticulous - скрупулёзный
+worthwhile - стоящий
+
+mistakes - 11
+correct - 19
+
+result - 63%
+
+part 3 (Use of English)
+
+paper 1:
+1. B +
+2. C -> D
+3. A +
+4. C +
+5. B +
+6. C -> D
+7. D -> C
+8. B -> C
+9. B -> D
+10. A +
+11. C -> A
+12. B +
+
+paper 2:
+13. ARE -> HAVE
+14. TAKE -> TAKING
+15. WHICH +
+16. AFTER +
+17. SOME -> A
+18. LIKE -> SUCH
+19. IF -> ALTHOUGH/THOUGH/WHILE/WHILST
+20. MUCH +
+21. HAVE -> ARE
+22. FULL +
+23. BUT -> WAS
+24. OF -> MORE
+
+paper 3:
+25. REMINDER +
+26. IMPORTANCE +
+27. PUNCTUATION -> PUNCTUALLY
+28. ANXIOUS +
+29. ABILITY +
+30. RECOMMENDATION +
+31. ANGER +
+32. UNUSUAL +
+33. APPEARANCE +
+34. RELIABLE +
+
+paper 4:
+35. BEEN PUT OFF +
+36. -> CAR WAS BEING DRIVEN
+37. BEFORE ANYBODY SPOKE -> BEFORE ANYBODY SAID
+38. CARRIED ON GETTING UP +
+39. RATHER PREFER TO EAT -> WOULD RATHER EAT
+40. FOR HIS BEHAVIOUR WAS -> APOLOGIZED FOR (HIS) BEHAVING
+41. POSSIBLE TO GET -> POSSIBLE FOR JENNY/HER TO GET
+42. NO POINT TO LEAVE (SO) -> NO POINT (IN) (US/OUR) LEAVING
+
+vocabulary:
+spacious
+park area
+keep out - избегать
+be on own - рассчитывать только на свои силы
+a lot more - гораздо больше
+waking - происходящий наяву
+make an appearance - показываться
+
+mistakes - 21
+correct - 21
+result - 50%
+
+part 4 (LISTENING):
+
+vocabulary:
+get across - четко излагать, довести (до слушателя)
+available - имеющийся в наличии, годный
+when it came to - когда дело дошло до
+spend a fortune on - вложить уйму денег на что-то
+money down the drain - деньги на ветер
+part-time job - неполный рабочий день
+tutor
+extension - продление; отсрочка
+
+
