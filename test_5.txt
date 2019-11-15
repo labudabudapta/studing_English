@@ -86,10 +86,10 @@ paper 1
 6. C +
 7. A +
 8. C +
-9. D +
+9. D + (avoid a mistake)
 10. D -> B
 11. C -> B
-12. B -> C
+12. B -> C (feel uncomfortable)
 
 paper 2
 13. WHICH +
@@ -109,7 +109,7 @@ paper 3
 25. VARIETY +
 26. DIRECTION -> DIRECTOR
 27. INHABITANTS +
-28. CHOISE -> CHOICE
+28. CHOISE -> CHOICE !
 29. GROWTH +
 30. EMPLIYMENT -> UNEMPLOYMENT
 31. AGREEMENT +
@@ -122,8 +122,8 @@ paper 4
 36. HAD BEEN BETTER THAN TIM -> WAS BETTER THAN TIM
 37. IF SHE DOES NOT -> IF SHE DOES NOT DO or UNLESS SHE DOES
 38. WHAT TIME -> IF HE REALISED WHAT TIME
-39. PUT THE ADVERTISEMENT OF -> PUT AN ADVERTISEMENT FOR
-40. FINISHED HIS SPEACH HAVING THANKED -> FINISHED HIS SPEACH BEFORE THANKING
+39. PUT THE ADVERTISEMENT OF -> PUT AN ADVERTISEMENT FOR (advertise for a job)
+40. FINISHED HIS SPEACH HAVING THANKED -> FINISHED HIS SPEACH BEFORE THANKING (at the end of)
 41. WAS A MONTH AGO WHEN -> HAS BEEN A MONTH SINCE
 42. WHICH FOLLOWING AFTER THEIR APPEARING -> FOLLOWING THEIR APPEARANCE
 
@@ -132,7 +132,19 @@ mistakes - 24
 result - 43%
 
 vocabulary:
-
-
-
-
+carry out - осуществлять; выполнять
+at the end of
+advertise for a job
+state - излагать; констатировать
+available - доступный; готовый к применению; имеющийся (в наличии)
+agreement on - соглашение по какому-л. вопросу
+property developer - заказчик-застройщик
+in normal circumstances - в обычных обстоятельствах
+for reason - по причине
+straightforward - идейно простой
+yeast - дрожжи; закваска
+conversely - в отличие от этого
+not to mention - не говоря уж
+in an attempt to - стремясь; в попытке
+topping -  верхний слой; ингредиент
+upset the stomach - расстроить желудок
