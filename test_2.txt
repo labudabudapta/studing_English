@@ -1,0 +1,111 @@
+TEST 2 
+part 1 (reading):
+
+paper 1:
+1. B +
+2. A +
+3. B -> D
+4. C +
+5. A +
+6. D -> C
+7. B +
+8. B +
+
+paper 2:
+9. D +
+10. H +
+11. E +
+12. C +
+13. F +
+14. B +
+15. G +
+
+paper 3:
+16. A -> C
+17. B +
+18. B +
+19. A +
+20. C +
+21. A +
+22. D +
+23. D +
+24. C +
+25. C +
+26. A +
+27. D +
+28. B +
+29. A +
+30. D +
+
+correct - 27
+mistakes - 3
+result - 90%
+
+vocabulary:
+
+part 3 (Use Of English)
+paper 1:
+1. C -> A
+2. C +
+3. D +
+4. A -> B
+5. B +
+6. A +
+7. D +
+8. C +
+9. A -> C
+10. B -> C
+11. A +
+12. B +
+
+paper 2:
+13. WHEN +
+14. HAD +
+15. -> great/good
+16. AS +
+17. EACH +
+18. AT +
+19. MAY -> make
+20. NOT +
+21. TO +
+22. MUCH -> well
+23. -> way
+24. IF +
+
+paper 3:
+25. DELIGHTFUL +
+26. CHOICE +
+27. IMPRESSIVE +
+28. HIGHLY +
+29. ATTRACTIONS +
+30. ANNUALLY +
+31. STORMY +
+32. UNSUITABLE +
+33. EASILY +
+34. RELIABLE +
+
+paper 4:
+35. ARE NOT ANY DIFFERENCE BETWEEN -> ISN'T ANY DIFFERENCE BETWEEN
+36. IT WAS NECESSARY TO -> IT WAS/WOULD BE | NECESSARY FOR
+37. WHAT HIGH THE MOUNTAIN -> HOW HIGH THE MOUNTAIN
+38. ANY PAPER LEFT +
+39. NOT HAVING DONE +
+40. BE SALE BY THEM -> BE/GO ON SALE
+41. EVEN THE WEATHER WAS -> EVEN THOUGH THE WEATHER WAS
+42. WERE UP AT -> LOOKED UP TO
+
+correct - 28
+mistakes - 14
+
+result - 67%
+
+vocabulary:
+go back to - датироваться
+examine - оглянуть; осмотреться
+a good/great deal (more) - намного (больше)
+make use of - использовать
+as well as - так же
+necessary for - необходим для
+be on sale - поступать в продажу; быть в продаже
+even though - даже при том, что; даже если
+look up to - относиться с почтением; уважать
