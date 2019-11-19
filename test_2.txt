@@ -42,6 +42,27 @@ mistakes - 3
 result - 90%
 
 vocabulary:
+one by one - один за другим
+strike - ударять, показаться кому-л (как используемый вариант)
+swerve - сворачивать; вилять (об автомобиле и т.п.); уклоняться
+cluck - кудахтать; клохтать
+stay put - остаться на месте
+poor excuse - слабая отговорка
+padded - раздутый
+watch yourself - смотри в оба
+represent - изображать или представлять (в каком-л. аспекте); разъяснять
+drop by - заходить
+fascinated - очарованный
+change hands - перейти из рук в руки
+so much so - настолько; до такой степени, что
+turn out -  выпускат; оказываться
+off duty - свободное или нерабочее время
+opt - выбирать; делать выбор
+long run - долгосрочный период
+cheeky - грубый; невоспитанный
+be spotted - быть замеченным
+split up - разрыв между супругами; раскалываться
+catch up on - навёрстывать; нагонять
 
 part 3 (Use Of English)
 paper 1:
@@ -102,7 +123,7 @@ result - 67%
 vocabulary:
 go back to - датироваться
 examine - оглянуть; осмотреться
-a good/great deal (more) - намного (больше)
+a good/great deal (more) - намного (больше), гораздо больше
 make use of - использовать
 as well as - так же
 necessary for - необходим для
