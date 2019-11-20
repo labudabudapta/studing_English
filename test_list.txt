@@ -131,18 +131,18 @@ deckchair - лежак
 notorious - пользующийся дурной славой
 fern - папоротник
 modest - сдержанный
-moorland (moor)
+moorland (moor) - болото
 what is more - помимо прочего
-on the contrary
-be stuck
-rather than
-take advantage
-distribute
-evenly - ровно; равно; одинаково; равный
-turned up
-on time
-prevent from - препятствовать
-chewing gum
+on the contrary - напротив
+be stuck - застрять; погрязать (in)
+rather than - скорее чём
+take advantage - извлечь выгоду
+distribute - распределить
+evenly - ровно; одинаково; поровну
+turned up - явиться
+on time - вовремя
+prevent from - предотвратить
+chewing gum - жвачка
 outline - краткий обзор, очерк
 uniquely - однозначно
 raw - сырьё
@@ -164,7 +164,7 @@ good time - подходящий момент
 family suite - семейные апартаменты
 in that respect - в этом отношении
 one by one - один за другим
-narrator
+narrator - рассказчик
 strike - ударять, показаться кому-л (как используемый вариант)
 swerve - сворачивать; вилять (об автомобиле и т.п.); уклоняться
 cluck - кудахтать; клохтать
