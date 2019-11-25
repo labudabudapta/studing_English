@@ -1,0 +1,68 @@
+TEST 6
+
+PAPER 3 - Use Of English
+part 1:
+1. C +
+2. B +
+3. A -> C
+4. A -> B
+5. A -> D
+6. B +
+7. B -> A
+8. B +
+9. A +
+10. B -> A
+11. D +
+12. C +
+
+part 2:
+13. BECAUSE +
+14. MORE +
+15. IN -> OF
+16. TOO +
+17. BE +
+18. WHILE +
+19. WHICH +
+20. ABOUT -> WHAT
+21. AGAIN +
+22. IF +
+23. LAST -> FIRST
+24. BY +
+
+part 3:
+25. FREQUENTLY +
+26. IMPRESSION -> IMPRESSIVE
+27. COMFORTABLE +
+28. FLyTH -> FLIGHT
+29. CONNECTED -> CONNECTIONS
+30. INCREASING -> INCREASINGLY
+31. IMPROVEMENT +
+32. NOISY +
+33. UNCROWDED -> CROWDED
+34. FORTUNATELY -> UNFORTUNATELY
+
+part 4:
+35. LIKE TO KNOW -> WOULD LIKE TO KNOW
+36. LET US PARK +
+37. IF I HAD SEEN +
+38. THERE IS A HOLE IN
+39. ATTENTION TO -> PAY MUCH/ANY ATTENTION TO
+40. TO LEND -> IF SHE WOULD LEND HIM or TO LEND HIM
+41. MIGHT FORGET -> MIGHT HAVE FORGOTTEN
+42. CHILD HAVE FUN -> CHILD HAS FUN
+
+correct - 23
+mistakes - 19
+result - 55%
+
+vocabulary:
+high street - главная улица города
+once - как только, один раз; однажды
+in exchange for - вместо
+though -  хотя; несмотря на
+be required - требоваться; следует; необходимо  [Space will be required from 2007 to 2014]
+end up - окончиться; прекратиться; оборваться
+chocking - подавившийся [What about the chocking dog and the Feng Shui...?]
+problem in - претензии относительно
+problem of - задача о
+competition - состязание; конкурирование
