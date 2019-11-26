@@ -2,17 +2,16 @@ TEST 6
 
 PAPER 1 (READING)
 part 1:
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
+1. B+
+2. B+
+3. D+
+4. C+
+5. A+
+6. D -> A
+7. B -> D
+8. C+
 
 part 2:
-
 9. H+
 10. E -> F
 11. A+
@@ -22,30 +21,58 @@ part 2:
 15. B -> E
 
 part 3:
+16. D -> E
+17. B -> D
+18. A+
+19. D+
+20,21. E,B +, -> C
+22. D -> B
+23. D -> E
+24,25. A,B +,+
+26. C +
+27,28. B,C +, -> D
+29. C+
+30. E -> D
 
+correct - 19
+mistakes - 11
+result - 63%
 
 vocabulary:
 sliver - кусочек; осколок
 do one’s best - сделать всё возможное
-full blast - вовсю
+full blast - вовсю [Or turn on the shower full blast - И открыть на всю катушку душ]
 headmistress - директриса
 full timer - штатный работник
 fluster - волновать
 snap - хватать; огрызаться
-from then on - 	с тех пор
+from then on - с тех пор
 till - наличность кассы (as a noun)
 behind the times - отсталый; устарелый
 long - страстно желать; стремиться
 rival - соперник; конкурент
 handy - удобный
-ungraciously - 	нелюбезно
+ungraciously -	нелюбезно
 hint at - намекать (на что-л.)
 streamside - приречная территория
 sway - качание; пошатывать; раскачаться
 hold firm - стоять на своём (both sides are holding firm in their positions)
 dam - плотина
 surge - вздыматься; подниматься и опускаться (о волнах); нарастать
-
+prayers were answered - молитвы были услышаны
+subside - падать; убывать; утихать
+torrential - стремительно текущий; проливной; бурный
+that way - такой вот  [He's lucky that way" - Такой вот он везунчик] 
+cope - освоиться (with); управиться (with)
+turned up (for) - явиться; являться [But my friends turned up for a different reason]
+outgoing - общительный; коммуникабельный [He's more outgoing since he met Marianne]
+turning point - переломный момент
+fall into place - встать на свои места
+take over - взять под свой контроль [Jane, let me take over - Джейн, позволь мне взять это на себя]
+go over the top - ринуться в атаку
+genuinely - искренне
+tangible - реально ощутимый
+jot - кратко записать; бегло набросать
 
 PAPER 3 - Use Of English
 part 1:
