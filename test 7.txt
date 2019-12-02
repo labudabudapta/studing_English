@@ -1,0 +1,132 @@
+TEST 7
+PAPER 1 (READING) 1.12.19
+part 1:
+1. C+
+2. D -> A
+3. D -> A
+4. B+
+5. B -> D
+6. D -> C
+7. A+
+8. C -> B
+
+part 2:
+9. F+
+10. B -> H
+11. E+
+12. D -> A
+13. C+
+14. A -> G
+15. H -> B
+
+part 3:
+16. B -> A
+17. C+
+18. D+
+19. F+
+20. B+
+21,22. A,D -> C,+
+23. C+
+24. A-> B
+25. E+
+26. B -> A
+27. E+
+28,29. F,D +,+
+30. A+
+
+correct - 17
+mistakes - 13
+result - 57%
+time 1 hour and 10 minutes
+
+vocabulary:
+try one's hand (at something) - попробовать свои силы в чём-либо
+on the list - в списке
+delicate - изысканный
+fine line - тонкая грань [there is a fine line between arrogance and self-confidence],  золотая середина
+charm - обаяние; очарование
+fireplace - камин
+considering - 	принимая во внимание
+have nothing to do with - не иметь ничего общего с
+I do wish - мне действительно жаль
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAPER 3 (USE OF ENGLISH) 30.11.19
+part 1:
+1. D+
+2. A+
+3. A+
+4. C -> D
+5. A+
+6. B+
+7. B+
+8. D -> C
+9. D+
+10. B -> A
+11. D+
+12. B+
+
+part 2:
+13. DID+
+14. WITH+
+15. HIM -> SUCH
+16. TO+
+17. THAT -> THOSE
+18. SO -> ONLY/JUST
+19. HAD -> COULD/WOULD
+20. HIMSELF -> IT
+21. THAT -> NOTHING
+22. TOO -> BUT/ALTHOUGH
+23. ONE -> WHICH
+24. AT -> FOR
+
+part 3:
+25. ATTRACTIVE+
+26. TOURISTS+
+27. ACHIEVEMENT+
+28. EMPLOYER -> EMPLOYEE
+29. UNCLEAR+
+30. TRADITIONAL+
+31. SUCCEEDING -> SUCCESS
+32. APPEARING -> APPEARANCE
+33. ORIGIN -> ORIGINALITY
+34. COMMUNICATION(S)+
+
+part 4: 
+35. MY HOLIDAY I HAD+
+36. OUGHT TO LOCK -> OUGHT TO HAVE LOCKED
+37. ANY CHANCE THAT PETE -> ANY CHANCE OF PETE
+38. PAUL NOBODY HAVE -> FROM PAUL NOBODY HAS
+39. BEEN USED WITH -> GOT USED TO
+40. FELT GOOD TO DO -> FELT LIKE DOING
+41. UNABLE TO SING -> BEING UNABLE TO SING
+42.AS SOON AS WE GET -> AS SOON AS WE ARRIVE
+
+correct - 19
+mistakes - 23 
+result - 45%
+time: 45 minutes
+
+vocabulary:
+
+
+
+
+
+
+
+
+
