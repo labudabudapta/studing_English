@@ -1,0 +1,76 @@
+TEST 8
+PAPER 3 (Use Of English)
+part 1:
+1. D+
+2. B -> C
+3. D+
+4. A -> B
+5. C+
+6. B -> C
+7. D+
+8. A+
+9. B+
+10. C+
+11. D+
+12. A+
+
+part 2:
+13. WELL -> LONG
+14. WITH+
+15. OF+
+16. AGO -> LATER/ON
+17. IN+
+18. HAD+
+19. TO+
+20. TAKES+
+21. THESE+
+22. MUCH+
+23. STILL -> WHICH
+24. ONE+
+
+paper 3:
+25. EXTRAORDINARLY -> EXTRAORDINARY
+26. FREEZING+
+27. ASSISTANCE+
+28. EQUIPMENTS -> EQUIPMENT
+29. LONELINESS+
+30. HOPEFUL+
+31. FRIENDSHIPS+
+32. HEAT+
+33. POISONESS -> POISONOUS
+34. REASONABLE+
+
+paper 4:
+35. NOT SEEN SUCH (SO) STRANGE -> NEVER SEEN SUCH A STRANGE
+36. WERE DRIVEN INTO TOWN BY+
+37. INSISTED IN PAYING -> INSISTED IN PAYING
+38. DIDN'T SUCCEED ON -> DIDN"T SUCCEED IN PERSUADING
+39. MIND NOT TO USE -> YOU MIND NOT USING
+40. MADE A GOOD IMPRESSION AT -> MADE A GOOD IMPRESSION ON
+41. WHISHES HE SAID TO -> WISHES (THAT) HE HAD TOLD
+42. HAD TROUBLE WITH FOLLOWING -> HAD TROUBLE IN FOLLOWING
+
+correct - 26
+mistakes - 16
+result - 62%
+
+vocabulary:
+achieve one's position in life - самоутвердиться
+start work - поступать на работу; развёртывать работу
+be fascinated by - восхищаться, приходить в восторг от 
+[We're supposed to be fascinated by how people behave - Мы должны быть очарованы, тем, как ведут себя люди]
+as long as - поскольку; пока 
+[Such measures should remain in place only as long as necessary - 
+Такие меры должны применяться лишь до тех пор, пока в них сохраняется необходимость]
+years later - годы спустя
+which is - являющийся [Otherwise, your installation will use color, which is the default - 
+В противном случае, программа установки будет использовать цвета, что является поведением по умолчанию.]
+extraordinary - необычайный
+be determined to - быть полным решимости
+insist on - настаивать на; утверждать
+succeed in - преуспевать
+make a good impression on - произвести хорошее впечатление на (кого-л.)
+have trouble with OR have trouble in] page 104
+
+
+
