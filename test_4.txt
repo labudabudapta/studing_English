@@ -140,6 +140,13 @@ money down the drain - деньги на ветер
 part-time job - неполный рабочий день
 tutor
 extension - продление; отсрочка
+<<<<<<< HEAD
 carry on - продолжать 
 [Because your face looks like it wants to carry on speaking - Потому что ваше лицо выглядит так, как будто вы хотите продолжать говорить]
 
+=======
+lot more -намного больше [A genius produces a lot more than he realizes]
+punctually - вовремя
+be anxious - беспокоиться
+keep on - продолжать [Wish you could just keep on running and never look back - Хочешь просто продолжать бежать и не оглядываться назад]
+>>>>>>> 40eed2cfc4a7dab8859f7b841f704d05dbee921d
